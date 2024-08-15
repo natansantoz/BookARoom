@@ -1,4 +1,4 @@
-## BookARoom - Agente de Reserva de Salas de Reunião 
+<h1 align="center">BookARoom - Agente de Reserva de Salas de Reunião </h1>
 
 Pequeno projeto desenvolvido para a atividade avaliativa **Projeto com Responsabilidades: BookARoom - Agente de Reserva de Salas de Reunião** da disciplina Análise e Projeto de Sistemas. 
 
