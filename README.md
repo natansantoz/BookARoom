@@ -12,8 +12,6 @@ O Instituto Federal do Norte de Minas Gerais começou os trabalhos para a constr
 3. [Documento de Casos de Uso Estendidos](<https://github.com/natansantoz/BookARoom/blob/main/doc/Documento%20de%20Casos%20de%20Uso%20Estendidos.pdf>)
 
 
-<br>
-
 ## Diagrama de Classes
 ![Circuito Principal](https://github.com/natansantoz/BookARoom/blob/main/doc/Diagrama%20de%20Classes.png)
 
