@@ -1,4 +1,4 @@
-# BookARoom - Agente de Reserva de Salas de Reunião 
+## BookARoom - Agente de Reserva de Salas de Reunião 
 
 Pequeno projeto desenvolvido para a atividade avaliativa **Projeto com Responsabilidades: BookARoom - Agente de Reserva de Salas de Reunião** da disciplina Análise e Projeto de Sistemas. 
 
@@ -6,7 +6,7 @@ Pequeno projeto desenvolvido para a atividade avaliativa **Projeto com Responsab
 
 O Instituto Federal do Norte de Minas Gerais começou os trabalhos para a construção de um pequeno sistema, chamado BookARoom que controla e facilita a tarefa de reserva de salas para reuniões, alocando equipamentos e controlando o uso das salas nos campi.
 
-# Documentos
+## Documentos
 1. [Relatório de Desenvolvimento](<https://github.com/natansantoz/BookARoom/blob/main/doc/Relatorio%20de%20Desenvolvimento.pdf>)
 2. [Diagrama de Classes](<https://github.com/natansantoz/BookARoom/blob/main/doc/Diagrama%20de%20Classes.png>)
 3. [Documento de Casos de Uso Estendidos](<https://github.com/natansantoz/BookARoom/blob/main/doc/Documento%20de%20Casos%20de%20Uso%20Estendidos.pdf>)
@@ -14,7 +14,7 @@ O Instituto Federal do Norte de Minas Gerais começou os trabalhos para a constr
 
 <br>
 
-# Diagrama de Classes
+## Diagrama de Classes
 ![Circuito Principal](https://github.com/natansantoz/BookARoom/blob/main/doc/Diagrama%20de%20Classes.png)
 
 
